@@ -1,7 +1,3 @@
-
-<img src="Screens/156169_435476919803816_644053752_n.jpg" >
-![](./Screens/156169_435476919803816_644053752_n.jpg)
-
 3D Simple Renderer
 
 A simple real time renderer engine. Similar to OpenGL or DirectX.
